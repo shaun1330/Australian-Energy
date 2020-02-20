@@ -1,1 +1,13 @@
-# Australian-Energy-
+# Australian-Energy 
+
+
+According to the Australian Government Department of Industry, Science, Energy and Resources, Australia used 1.2 Petawatt hours of energy in 2017-2018 (1). That is 1.2 million billion watt hours of energy. With only 4.3% of this energy coming from renewable energy(1), Australia faces as very large challenge in reaching a target of 100% renewable energy by 2050(2).
+
+While the cost of implementing renewable energy production as dropped dramatically over recent years, the fundamental limit to renewables is the reliablity in energy production. It also lacks the ability to throttle the amount of energy produced. This is important as energy demand varies throughout the day and the grid must vary output to meet this demand exactly. To little production and a blackout can occur. To much production and infrastrure such as powerlines and transformers can be damaged. Currently, to cater for this variabilty in demand, gas power plants know as peaker plants are used. These plants can vary output enough to meet the variable demand. 
+
+If the energy produced by renewables can be stored for later use, then the feasabilty of wide spread adoption of renewables can take off. This is especially important for solar energy as peak production of solar energy is produced in the middle of the day while peak demand happens later in the day while everyone heads home. One possible solution for storing this energy is using pumped hydro storage. This involves using excess energy production to pump water up a hill to a reservoir. Later when the energy is needed, the water is let to flow down the hill where it goes through a generator to produce electrcity. While this method has been proven to work, it requires specific geography to implement. It also requires creating dams that have negative effects on the enviroment. 
+
+Another method to store renewable energy is with the use of chemical batteries. With the rise of electric vehicles, battery technology has seen huge increases in both energy density and cost reductions....
+
+
+The aim of this project is to investigate the total energy demand for Australia (Dec/18 - Dec-19). By determining the trends in energy demand, I am to show if battery storage can sufficiently store enough power during off peak times to power the country. I'm go to try to take into account a reasonable buffer capacity to allow for any days when energy production is abnormally low such as below average wind. I am also going to assume that all vehicles on the road today get replaced with battery electric drivetrains. As these vehicles have to be connected to the grid to be charged, they can also be utilised to create a distrubuted grid sized battery storage system that can act like a dedicated battery installation. 

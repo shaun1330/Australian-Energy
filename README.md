@@ -1,7 +1,7 @@
-# Australian-Energy 
+# What would it take for Australia to be 100% renewable in 2019?
 
 
-According to the Australian Government Department of Industry, Science, Energy and Resources, Australia used 1.2 Petawatt hours of energy in 2017-2018 (1). That is 1.2 million billion watt hours of energy. With only 4.3% of this energy coming from renewable energy(1), Australia faces as very large challenge in reaching a target of 100% renewable energy by 2050(2).
+According to the Australian Government Department of Industry, Science, Energy and Resources, Australia used 1.2 Petawatt hours of energy in 2017-2018 (1). That is 1.2 million billion watt hours of energy. This number includes electricity, gas and transport demand. With only 4.3% of this energy coming from renewable energy(1), Australia faces as very large challenge in reaching a target of 100% renewable energy by 2050(2).
 
 While the cost of implementing renewable energy production as dropped dramatically over recent years, the fundamental limit to renewables is the reliablity in energy production. It also lacks the ability to throttle the amount of energy produced. This is important as energy demand varies throughout the day and the grid must vary output to meet this demand exactly. To little production and a blackout can occur. To much production and infrastrure such as powerlines and transformers can be damaged. Currently, to cater for this variabilty in demand, gas power plants know as peaker plants are used. These plants can vary output enough to meet the variable demand. 
 
